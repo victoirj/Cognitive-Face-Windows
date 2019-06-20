@@ -1,3 +1,5 @@
+# Original copied from Microsoft Face API locally for training purposes
+
 # Microsoft Face API: Windows Client Library & Sample
 This SDK has been deprecated and been replaced by [Microsoft.Azure.CognitiveServices.Vision.Face](https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/cognitiveservices/Vision.Face) which is a part of Azure SDK.
 
